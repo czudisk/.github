@@ -1,1 +1,1 @@
-# .github
+# ČZU Disk
