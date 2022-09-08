@@ -1,12 +1,8 @@
-## Hi there 👋
+## ČZU Disk
+Document storage, teachers rating and all-around learning app made for students of the Czech University of Life Sciences Prague.
 
-<!--
+[![facebook](https://github.com/carlsednaoui/gitsocial/blob/master/assets/icons%20without%20padding/facebook.png (Facebook))][1]
+[![github](https://github.com/carlsednaoui/gitsocial/blob/master/assets/icons%20without%20padding/github.png (GitHub))][2]
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[1]: https://www.facebook.com/czudisk
+[2]: https://github.com/czudisk
